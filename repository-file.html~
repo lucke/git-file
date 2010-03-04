@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<!-- Incluimos el archivo CSS -->
+	<link rel="stylesheet" type="text/css" href="http://localhost/gadgets/repository-file/repository-file.css" />
+
+	<!-- EzWeb Gadgets project JavaScript Library -->
+	<script type="text/javascript" src="http://localhost/gadgets/repository-file/EzWebAPI_ext.js"></script>
+
+	<!-- Incluimos la lógica del Gadget -->
+	<script language="javascript" src="http://localhost/gadgets/repository-file/repository-file.js"> </script>
+
+</head>
+
+
+	<body>
+	</body>
+
+
+
+
+
+<!--
+	<body onload="javascript:load();">
+
+		<div id="dnota">
+			<div id="info">	</div>
+			<textarea id="nota"></textarea>
+			<div id="errors"></div>
+			<div id="menu">
+				<button id="bSave"  onclick="load_file()">Load File</button>
+				<button id="bReset" onclick="deltext()">Clear</buttom>
+			</div>
+		</div>
+
+	</body>
+-->
+</html>
